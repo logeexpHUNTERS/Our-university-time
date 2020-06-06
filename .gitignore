@@ -1,0 +1,11 @@
+*.ini
+*.uvoptx
+*.uvprojx
+*.uvopt
+*.uvproj
+__Previews
+History
+SpaceLocatorMDK/Obj
+Listings
+Objects
+OBJ
