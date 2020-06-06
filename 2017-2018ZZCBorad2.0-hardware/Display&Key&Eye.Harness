@@ -1,0 +1,2 @@
+Camera=PTB[7..0],CAM_PCLK,CAM_VSYNC,CAM_SCL,CAM_SDA
+Display&Key=D[7..0],RD,RS,RST,CS,WR,Up,Down,Left,Right,Center

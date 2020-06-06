@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SpaceLocator.PrjPCB]
+   Generated File[SpaceLocator.TXT]
+   Generated File[SpaceLocator.LDP]
+   Generated File[SpaceLocator.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:06:53 On 2018/4/10

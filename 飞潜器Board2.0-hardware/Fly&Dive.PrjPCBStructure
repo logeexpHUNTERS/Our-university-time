@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Board.SchDoc
+Record=SheetSymbol|SourceDocument=Board.SchDoc|Designator=U_Models|SchDesignator=U_Models|FileName=Models.SchDoc|SymbolType=Normal|RawFileName=Models.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Board.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Board.SchDoc|Designator=U_System&Ports|SchDesignator=U_System&Ports|FileName=System&Ports.SchDoc|SymbolType=Normal|RawFileName=System&Ports.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,36 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SpaceLocator.PrjPCB|ReportField=ProjectFullPath~E:\DeskTop\Underway\空间定位Board1.0\SpaceLocator.PrjPCB|ReportField=Title~Bill of Materials For Project [SpaceLocator.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~19:25:02|ReportField=ReportDate~2018/10/4|ReportField=ReportDateTime~2018/10/4 19:25:02|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~79|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~罗琪|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/10/4|ReportField=CurrentTime~19:24:58|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\DeskTop\Underway\空间定位Board1.0\MAIN.SchDoc|ReportField=DocumentName~MAIN.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~罗琪|ReportField=ImagePath~|ReportField=ModifiedDate~2018/4/6|ReportField=Organization~|ReportField=ProjectName~SpaceLocator.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~SpaceLocator|ReportField=DataSourceFileName~SpaceLocator.PrjPCB|ReportField=DataSourceFullPath~E:\DeskTop\Underway\空间定位Board1.0\SpaceLocator.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|NRF2401|8 Pin Header|24L01|HDR2X4|HEADER 8|1
+2|BEEP||B|BEEP|蜂鸣器|1
+3|JUMPER3|Jumper|BOOT1, BOOT2, UT2, UT3|Jumper3|JUMPER3|4
+4|104||C1, C20, C25, C26, C27, C29|C0603|CAP|6
+5|10u|电容|C2, C4, C6, C8|C0805|Capacitor|4
+6|100n|电容|C3, C5, C7, C9|C0603|Capacitor|4
+7|inf|电容|C10, C11, C12|C0603|Capacitor|3
+8|1u|电容|C13, C16, C19|C0603|Capacitor|3
+9|3.3u|电容|C14, C17, C21|C0603|Capacitor|3
+10|330p|电容|C15, C18, C22|C0603|Capacitor|3
+11|20pF|CAP CHIP 20P 50V(+-5% C0G 0603)|C28, C30|LC-0603_C|CAP|2
+12|104|GRM39 X7R102K50PT|C31|LC-0603_C|CAP|1
+13|6pF|CAP CHIP 20P 50V(+-5% C0G 0603)|C32, C33|LC-0603_C|CAP|2
+14|CON/SIP4||DOWNLOAD1|HDR1X4|CON/SIP4|1
+15|LED|LED|L1, L2, L3, L4|LED0805TB|LED|4
+16|Header 7|Header, 7-Pin|OLED/TFT|HDR1X7|Header 7|1
+17|NPN|triode|Q2|SOT23-3|NPN|1
+18|Resistor|电阻|R1|R0805|Resistor|1
+19|210k|电阻|R2, R3, R4|R0603|Resistor|3
+20|4.7|电阻|R5, R7, R10|R0603|Resistor|3
+21|22k|电阻|R6, R8, R11|R0603|Resistor|3
+22|100R||R9|R0603|RES|1
+23|1k|电阻|R12, R13, R14|R0603|Resistor|3
+24|1M||R15|LC-0603_R|RES|1
+25|10K||R17, R18, R19|R0603|RES|3
+26|||REST1|KEY-K2|SW-PB|1
+27|6PinSW||SW?|SW-7X7|6PinSW|1
+28|AMS1117-XX|稳压芯片|U1, U2|SOT223|AMS1117-XX|2
+29|STM32F103RCT6||U3|LC-LQFP-64_10x10x05P|STM32F103RBT6|1
+30|CX20106A||U4, U5, U6|8Pin_100mil|CX20106A|3
+31|P||U？|2脚接头|2脚接头|1
+32|Header 4|Header, 4-Pin|USART1, USART2, USART3|HDR1X4|Header 4|3
+33|Ultrasonoc||W1, W2, W3|Circle_1cm|Ultrasonic|3
+34|8MHz|Crystal 8MHz PLUG|Y3|XTAL-49/S_N|CRYSTAL|1
+35|32.768k|Crystal 8MHz PLUG|Y4|XTAL_2X6 卧式|CRYSTAL|1

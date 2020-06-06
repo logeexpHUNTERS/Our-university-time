@@ -1,0 +1,348 @@
+Added Component: Designator=BOOT0(Jumper3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BOOT1(Jumper3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(C0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(LC-0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(LC-0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(LC-0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REF"; Value = "GRM39 X7R102K50PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(LC-0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(LC-0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=DOWNLOAD(HDR1X4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Gry(´®¿ÚÍÓÂÝÒÇ)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(HDR2X4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor1(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor2(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor3(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor4(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OLED(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(LC-0603_R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=REST1(KEY-K2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Servo1(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Servo2(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Servo3(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Servo4(HDR1X3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SPIPre(SurfacePad-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=StepperCon(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=StepperDri(SOIC16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOT223)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(LC-LQFP-64_10x10x05P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(XTAL-49/S_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(XTAL_2X6 ÎÔÊ½)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=BOOT0-1
+Added Pin To Net: NetName=3V3 Pin=BOOT1-1
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C11-1
+Added Pin To Net: NetName=3V3 Pin=DOWNLOAD-1
+Added Pin To Net: NetName=3V3 Pin=Gry-1
+Added Pin To Net: NetName=3V3 Pin=Gry-8
+Added Pin To Net: NetName=3V3 Pin=J1-2
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=3V3 Pin=U2-13
+Added Pin To Net: NetName=3V3 Pin=U2-19
+Added Pin To Net: NetName=3V3 Pin=U2-32
+Added Pin To Net: NetName=3V3 Pin=U2-48
+Added Pin To Net: NetName=3V3 Pin=U2-64
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V0 Pin=C1-1
+Added Pin To Net: NetName=5V0 Pin=C2-1
+Added Pin To Net: NetName=5V0 Pin=Motor1-2
+Added Pin To Net: NetName=5V0 Pin=Motor2-2
+Added Pin To Net: NetName=5V0 Pin=Motor3-2
+Added Pin To Net: NetName=5V0 Pin=Motor4-2
+Added Pin To Net: NetName=5V0 Pin=OLED-1
+Added Pin To Net: NetName=5V0 Pin=Servo1-2
+Added Pin To Net: NetName=5V0 Pin=Servo2-2
+Added Pin To Net: NetName=5V0 Pin=Servo3-2
+Added Pin To Net: NetName=5V0 Pin=Servo4-2
+Added Pin To Net: NetName=5V0 Pin=U1-3
+Added Net: Name=5V0
+Added Pin To Net: NetName=AUX Pin=U2-41
+Added Net: Name=AUX
+Added Pin To Net: NetName=BOOT0 Pin=BOOT0-2
+Added Pin To Net: NetName=BOOT0 Pin=U2-60
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BOOT1 Pin=BOOT1-2
+Added Pin To Net: NetName=BOOT1 Pin=U2-28
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=COM Pin=StepperCon-1
+Added Pin To Net: NetName=COM Pin=StepperDri-9
+Added Net: Name=COM
+Added Pin To Net: NetName=DRDY Pin=U2-27
+Added Net: Name=DRDY
+Added Pin To Net: NetName=GND Pin=BOOT0-3
+Added Pin To Net: NetName=GND Pin=BOOT1-3
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=DOWNLOAD-3
+Added Pin To Net: NetName=GND Pin=Gry-4
+Added Pin To Net: NetName=GND Pin=Gry-5
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=Motor1-3
+Added Pin To Net: NetName=GND Pin=Motor2-3
+Added Pin To Net: NetName=GND Pin=Motor3-3
+Added Pin To Net: NetName=GND Pin=Motor4-3
+Added Pin To Net: NetName=GND Pin=OLED-2
+Added Pin To Net: NetName=GND Pin=REST1-2
+Added Pin To Net: NetName=GND Pin=Servo1-3
+Added Pin To Net: NetName=GND Pin=Servo2-3
+Added Pin To Net: NetName=GND Pin=Servo3-3
+Added Pin To Net: NetName=GND Pin=Servo4-3
+Added Pin To Net: NetName=GND Pin=StepperDri-8
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=U2-63
+Added Net: Name=GND
+Added Pin To Net: NetName=GPSRX Pin=U2-29
+Added Net: Name=GPSRX
+Added Pin To Net: NetName=GPSTX Pin=U2-30
+Added Net: Name=GPSTX
+Added Pin To Net: NetName=GryRX Pin=Gry-2
+Added Pin To Net: NetName=GryRX Pin=U2-51
+Added Net: Name=GryRX
+Added Pin To Net: NetName=GryTX Pin=Gry-3
+Added Pin To Net: NetName=GryTX Pin=U2-52
+Added Net: Name=GryTX
+Added Pin To Net: NetName=Motor1 Pin=Motor1-1
+Added Pin To Net: NetName=Motor1 Pin=U2-14
+Added Net: Name=Motor1
+Added Pin To Net: NetName=Motor2 Pin=Motor2-1
+Added Pin To Net: NetName=Motor2 Pin=U2-15
+Added Net: Name=Motor2
+Added Pin To Net: NetName=Motor3 Pin=Motor3-1
+Added Pin To Net: NetName=Motor3 Pin=U2-16
+Added Net: Name=Motor3
+Added Pin To Net: NetName=Motor4 Pin=Motor4-1
+Added Pin To Net: NetName=Motor4 Pin=U2-17
+Added Net: Name=Motor4
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetC1_2 Pin=C4-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetStepperCon_2 Pin=StepperCon-2
+Added Pin To Net: NetName=NetStepperCon_2 Pin=StepperDri-16
+Added Net: Name=NetStepperCon_2
+Added Pin To Net: NetName=NetStepperCon_3 Pin=StepperCon-3
+Added Pin To Net: NetName=NetStepperCon_3 Pin=StepperDri-15
+Added Net: Name=NetStepperCon_3
+Added Pin To Net: NetName=NetStepperCon_4 Pin=StepperCon-4
+Added Pin To Net: NetName=NetStepperCon_4 Pin=StepperDri-14
+Added Net: Name=NetStepperCon_4
+Added Pin To Net: NetName=NetStepperCon_5 Pin=StepperCon-5
+Added Pin To Net: NetName=NetStepperCon_5 Pin=StepperDri-13
+Added Net: Name=NetStepperCon_5
+Added Pin To Net: NetName=NRF_CE Pin=J1-3
+Added Pin To Net: NetName=NRF_CE Pin=U2-20
+Added Net: Name=NRF_CE
+Added Pin To Net: NetName=NRF_CS Pin=J1-4
+Added Pin To Net: NetName=NRF_CS Pin=U2-24
+Added Net: Name=NRF_CS
+Added Pin To Net: NetName=NRF_IRQ Pin=J1-8
+Added Pin To Net: NetName=NRF_IRQ Pin=U2-25
+Added Net: Name=NRF_IRQ
+Added Pin To Net: NetName=OLEDSCL Pin=OLED-4
+Added Pin To Net: NetName=OLEDSCL Pin=U2-34
+Added Net: Name=OLEDSCL
+Added Pin To Net: NetName=OLEDSDA Pin=OLED-3
+Added Pin To Net: NetName=OLEDSDA Pin=U2-36
+Added Net: Name=OLEDSDA
+Added Pin To Net: NetName=OSC_IN1 Pin=C14-2
+Added Pin To Net: NetName=OSC_IN1 Pin=U2-3
+Added Pin To Net: NetName=OSC_IN1 Pin=Y2-2
+Added Net: Name=OSC_IN1
+Added Pin To Net: NetName=OSC_IN2 Pin=C10-2
+Added Pin To Net: NetName=OSC_IN2 Pin=R1-2
+Added Pin To Net: NetName=OSC_IN2 Pin=U2-5
+Added Pin To Net: NetName=OSC_IN2 Pin=Y1-1
+Added Net: Name=OSC_IN2
+Added Pin To Net: NetName=OSC_OUT1 Pin=C15-2
+Added Pin To Net: NetName=OSC_OUT1 Pin=U2-4
+Added Pin To Net: NetName=OSC_OUT1 Pin=Y2-1
+Added Net: Name=OSC_OUT1
+Added Pin To Net: NetName=OSC_OUT2 Pin=C12-2
+Added Pin To Net: NetName=OSC_OUT2 Pin=R1-1
+Added Pin To Net: NetName=OSC_OUT2 Pin=U2-6
+Added Pin To Net: NetName=OSC_OUT2 Pin=Y1-2
+Added Net: Name=OSC_OUT2
+Added Pin To Net: NetName=RESET Pin=C13-2
+Added Pin To Net: NetName=RESET Pin=R2-1
+Added Pin To Net: NetName=RESET Pin=REST1-1
+Added Pin To Net: NetName=RESET Pin=U2-7
+Added Net: Name=RESET
+Added Pin To Net: NetName=RFRX Pin=U2-42
+Added Net: Name=RFRX
+Added Pin To Net: NetName=RFTX Pin=U2-43
+Added Net: Name=RFTX
+Added Pin To Net: NetName=Servo1 Pin=Servo1-1
+Added Pin To Net: NetName=Servo1 Pin=U2-37
+Added Net: Name=Servo1
+Added Pin To Net: NetName=Servo2 Pin=Servo2-1
+Added Pin To Net: NetName=Servo2 Pin=U2-38
+Added Net: Name=Servo2
+Added Pin To Net: NetName=Servo3 Pin=Servo3-1
+Added Pin To Net: NetName=Servo3 Pin=U2-39
+Added Net: Name=Servo3
+Added Pin To Net: NetName=Servo4 Pin=Servo4-1
+Added Pin To Net: NetName=Servo4 Pin=U2-40
+Added Net: Name=Servo4
+Added Pin To Net: NetName=SPI1_MISO Pin=J1-7
+Added Pin To Net: NetName=SPI1_MISO Pin=U2-22
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=J1-6
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-23
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=J1-5
+Added Pin To Net: NetName=SPI1_SCK Pin=U2-21
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=SPI2MISO Pin=SPIPre-1
+Added Pin To Net: NetName=SPI2MISO Pin=U2-35
+Added Net: Name=SPI2MISO
+Added Pin To Net: NetName=SPI2NSS Pin=SPIPre-2
+Added Pin To Net: NetName=SPI2NSS Pin=U2-33
+Added Net: Name=SPI2NSS
+Added Pin To Net: NetName=Stepper1 Pin=StepperDri-1
+Added Pin To Net: NetName=Stepper1 Pin=U2-53
+Added Net: Name=Stepper1
+Added Pin To Net: NetName=Stepper2 Pin=StepperDri-2
+Added Pin To Net: NetName=Stepper2 Pin=U2-54
+Added Net: Name=Stepper2
+Added Pin To Net: NetName=Stepper3 Pin=StepperDri-3
+Added Pin To Net: NetName=Stepper3 Pin=U2-55
+Added Net: Name=Stepper3
+Added Pin To Net: NetName=Stepper4 Pin=StepperDri-4
+Added Pin To Net: NetName=Stepper4 Pin=U2-56
+Added Net: Name=Stepper4
+Added Pin To Net: NetName=SWCLK Pin=DOWNLOAD-2
+Added Pin To Net: NetName=SWCLK Pin=U2-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=DOWNLOAD-4
+Added Pin To Net: NetName=SWDIO Pin=U2-46
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=U_System&Ports Member=Component BOOT0 JUMPER3
+Added Member To Class: ClassName=U_System&Ports Member=Component BOOT1 JUMPER3
+Added Member To Class: ClassName=U_Power Member=Component C1 10u
+Added Member To Class: ClassName=U_Power Member=Component C2 100n
+Added Member To Class: ClassName=U_Power Member=Component C3 10u
+Added Member To Class: ClassName=U_Power Member=Component C4 100n
+Added Member To Class: ClassName=U_System&Ports Member=Component C5 104
+Added Member To Class: ClassName=U_System&Ports Member=Component C6 104
+Added Member To Class: ClassName=U_System&Ports Member=Component C7 104
+Added Member To Class: ClassName=U_System&Ports Member=Component C8 104
+Added Member To Class: ClassName=U_System&Ports Member=Component C9 104
+Added Member To Class: ClassName=U_System&Ports Member=Component C10 20pF
+Added Member To Class: ClassName=U_System&Ports Member=Component C11 104
+Added Member To Class: ClassName=U_System&Ports Member=Component C12 20pF
+Added Member To Class: ClassName=U_System&Ports Member=Component C13 104
+Added Member To Class: ClassName=U_System&Ports Member=Component C14 6pF
+Added Member To Class: ClassName=U_System&Ports Member=Component C15 6pF
+Added Member To Class: ClassName=U_System&Ports Member=Component DOWNLOAD CON/SIP4
+Added Member To Class: ClassName=U_Models Member=Component Gry Gyroscop
+Added Member To Class: ClassName=U_System&Ports Member=Component J1 NRF2401
+Added Member To Class: ClassName=U_Models Member=Component Motor1 CON/SIP3
+Added Member To Class: ClassName=U_Models Member=Component Motor2 CON/SIP3
+Added Member To Class: ClassName=U_Models Member=Component Motor3 CON/SIP3
+Added Member To Class: ClassName=U_Models Member=Component Motor4 CON/SIP3
+Added Member To Class: ClassName=U_Models Member=Component OLED Header 4
+Added Member To Class: ClassName=U_System&Ports Member=Component R1 1M
+Added Member To Class: ClassName=U_System&Ports Member=Component R2 10K
+Added Member To Class: ClassName=U_System&Ports Member=Component REST1 
+Added Member To Class: ClassName=U_Models Member=Component Servo1 CON/SIP3
+Added Member To Class: ClassName=U_Models Member=Component Servo2 CON/SIP3
+Added Member To Class: ClassName=U_Models Member=Component Servo3 CON/SIP3
+Added Member To Class: ClassName=U_Models Member=Component Servo4 CON/SIP3
+Added Member To Class: ClassName=U_System&Ports Member=Component SPIPre SuefacePad-2
+Added Member To Class: ClassName=U_Models Member=Component StepperCon Header 5
+Added Member To Class: ClassName=U_Models Member=Component StepperDri ULN2003
+Added Member To Class: ClassName=U_Power Member=Component U1 AMS1117-XX
+Added Member To Class: ClassName=U_System&Ports Member=Component U2 STM32F103RCT6
+Added Member To Class: ClassName=U_System&Ports Member=Component Y1 8MHz
+Added Member To Class: ClassName=U_System&Ports Member=Component Y2 32.768k
+Added Room: Name=U_Models
+Added Room: Name=U_Power
+Added Room: Name=U_System&Ports

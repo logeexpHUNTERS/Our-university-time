@@ -1,0 +1,27 @@
+
+T2EF4 000:285 SEGGER J-Link V4.96d Log File (0002ms, 0263ms total)
+T2EF4 000:285 DLL Compiled: Jan 29 2015 11:45:37 (0002ms, 0263ms total)
+T2EF4 000:285 Logging started @ 2017-12-18 11:24 (0002ms, 0263ms total)
+T2EF4 000:287 JLINK_SetWarnOutHandler(...) (0000ms, 0263ms total)
+T2EF4 000:287 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N: 20080643
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0259ms, 0522ms total)
+T2EF4 000:546 JLINK_SetErrorOutHandler(...) (0000ms, 0522ms total)
+T2EF4 000:546 JLINK_ExecCommand("ProjectFile = "E:\DESKTOP\Is doing\2017-2018 PREY\2017FLY_DIVING\FlyDivingCode1.0\USER\JLinkSettings.ini"", ...)  returns 0x00 (0001ms, 0523ms total)
+T2EF4 000:549 JLINK_ExecCommand("Device = STM32F103ZE", ...)Device "STM32F103ZE" selected.  returns 0x00 (0003ms, 0526ms total)
+T2EF4 000:552 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0526ms total)
+T2EF4 000:552 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0526ms total)
+T2EF4 000:552 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0526ms total)
+T2EF4 000:552 JLINK_GetFirmwareString(...) (0000ms, 0526ms total)
+T2EF4 000:565 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0526ms total)
+T2EF4 000:565 JLINK_GetCompileDateTime() (0000ms, 0526ms total)
+T2EF4 000:569 JLINK_GetFirmwareString(...) (0000ms, 0526ms total)
+T2EF4 000:574 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0526ms total)
+T2EF4 000:580 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 0527ms total)
+T2EF4 000:581 JLINK_SetSpeed(2000) (0000ms, 0527ms total)
+T2EF4 000:581 JLINK_GetId()  returns 0x00000000 (0000ms, 0527ms total)
+T2EF4 001:650 JLINK_Close() (0001ms, 0528ms total)
+T2EF4 001:650  (0001ms, 0528ms total)
+T2EF4 001:650 Closed (0001ms, 0528ms total)

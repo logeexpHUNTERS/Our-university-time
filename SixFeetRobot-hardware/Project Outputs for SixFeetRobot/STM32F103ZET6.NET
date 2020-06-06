@@ -1,0 +1,126 @@
+PARTS LIST
+
+10u               C0402           C?
+10n               C0402           C?
+10u               C0402           C?
+10n               C0402           C?
+100n              C0402           C?
+20p               C0402           C?
+20p               C0402           C?
+20p               C0402           C?
+20p               C0402           C?
+RESET             °´¼ü-ÌùÆ¬-1         K?
+LED               LED0805TB       L?
+1k                R0805           R?
+10k               R0805           R?
+STM32F103ZET6     STM32F103ZET6-1 STM32F103ZET?
+CON/SIP4          HDR1X4          SWD
+AMS1117-XX        SOT223          U?
+32.768k           XTAL_32.768     XTAL?
+8M                XTAL-49/S_N     XTAL?
+EOS
+NET LIST
+
+NODENAME SWDIO            $
+    STM32F103ZET?105  SWD        3
+NODENAME SWDCLK           $
+    STM32F103ZET?109  SWD        2
+NODENAME RESET            $
+    C?         1  K?         2  R?         2  STM32F103ZET?25
+NODENAME PWM_OUT16        $
+    STM32F103ZET?99
+NODENAME PWM_OUT15        $
+    STM32F103ZET?98
+NODENAME PWM_OUT14        $
+    STM32F103ZET?97
+NODENAME PWM_OUT13        $
+    STM32F103ZET?96
+NODENAME PWM_OUT12        $
+    STM32F103ZET?139
+NODENAME PWM_OUT11        $
+    STM32F103ZET?137
+NODENAME PWM_OUT10        $
+    STM32F103ZET?136
+NODENAME PWM_OUT9         $
+    STM32F103ZET?47
+NODENAME PWM_OUT8         $
+    STM32F103ZET?46
+NODENAME PWM_OUT7         $
+    STM32F103ZET?103
+NODENAME PWM_OUT6         $
+    STM32F103ZET?102
+NODENAME PWM_OUT5         $
+    STM32F103ZET?43
+NODENAME PWM_OUT4         $
+    STM32F103ZET?42
+NODENAME PWM_OUT3         $
+    STM32F103ZET?37
+NODENAME PWM_OUT2         $
+    STM32F103ZET?36
+NODENAME PWM_OUT1         $
+    STM32F103ZET?35
+NODENAME PWM_OUT0         $
+    STM32F103ZET?34
+NODENAME OSC_OUT          $
+    C?         2  STM32F103ZET?24  XTAL?      2
+NODENAME OSC_IN           $
+    C?         2  STM32F103ZET?23  XTAL?      1
+NODENAME OSC32_OUT        $
+    C?         2  STM32F103ZET?9  XTAL?      2
+NODENAME OSC32_IN         $
+    C?         2  STM32F103ZET?8  XTAL?      1
+NODENAME OLED_RES         $
+    STM32F103ZET?91
+NODENAME OLED_DC          $
+    STM32F103ZET?90
+NODENAME OLED_D1          $
+    STM32F103ZET?92
+NODENAME OLED_D0          $
+    STM32F103ZET?93
+NODE     111              $
+    L?         1  R?         2
+NODE     112              $
+    C?         2  C?         2  U?         3
+NODENAME K3               $
+    STM32F103ZET?3
+NODENAME K2               $
+    STM32F103ZET?2
+NODENAME K1               $
+    STM32F103ZET?1
+NODENAME GND              $
+    C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         2  K?         1  L?         2  STM32F103ZET?16  STM32F103ZET?38  STM32F103ZET?51  STM32F103ZET?61  STM32F103ZET?71  STM32F103ZET?83  STM32F103ZET?94  STM32F103ZET?107  STM32F103ZET?120  STM32F103ZET?130  STM32F103ZET?143  SWD        1  U?         1
+NODENAME BOOT1            $
+    STM32F103ZET?48
+NODENAME BOOT0            $
+    STM32F103ZET?138
+NODENAME 3V3              $
+    C?         2  C?         2  R?         1  R?         1  STM32F103ZET?6  STM32F103ZET?17  STM32F103ZET?39  STM32F103ZET?52  STM32F103ZET?62  STM32F103ZET?72  STM32F103ZET?84  STM32F103ZET?95  STM32F103ZET?108  STM32F103ZET?121  STM32F103ZET?131  STM32F103ZET?144  SWD        4  U?         2
+NODENAME D6               $
+  
+NODENAME D5               $
+  
+NODENAME D4               $
+  
+NODENAME D3               $
+  
+NODENAME D2               $
+  
+NODENAME D1               $
+  
+NODENAME D0               $
+  
+NODENAME D6               $
+    STM32F103ZET?122
+NODENAME D5               $
+    STM32F103ZET?119
+NODENAME D4               $
+    STM32F103ZET?118
+NODENAME D3               $
+    STM32F103ZET?117
+NODENAME D2               $
+    STM32F103ZET?116
+NODENAME D1               $
+    STM32F103ZET?115
+NODENAME D0               $
+    STM32F103ZET?114
+EOS

@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=3V3 SWC G SWD NewDesignator=DOWNLOAD
+Added Component: Designator=GPS(SurfacePad-S4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RF(SurfacePad-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DRDY Pin=GPS-1
+Added Pin To Net: NetName=GPSTX Pin=GPS-2
+Added Pin To Net: NetName=GPSRX Pin=GPS-3
+Added Pin To Net: NetName=GND Pin=GPS-4
+Added Pin To Net: NetName=GND Pin=RF-1
+Added Pin To Net: NetName=5V0 Pin=RF-2
+Added Pin To Net: NetName=AUX Pin=RF-3
+Added Pin To Net: NetName=RFTX Pin=RF-4
+Added Pin To Net: NetName=RFRX Pin=RF-5
+Added Member To Class: ClassName=U_Models Member=Component GPS SurfacePad-5
+Added Member To Class: ClassName=U_Models Member=Component RF SurfacePad-5
+Added Room: Name=U_Models
+Added Room: Name=U_Power
+Added Room: Name=U_System&Ports

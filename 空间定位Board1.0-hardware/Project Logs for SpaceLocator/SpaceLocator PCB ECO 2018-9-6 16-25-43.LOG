@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=EXTI2 Pin=U3-10
+Removed Pin From Net: NetName=EXTI0 Pin=U3-26
+Removed Pin From Net: NetName=EXTI1 Pin=U3-27
+Added Pin To Net: NetName=EXTI2 Pin=U3-45
+Added Pin To Net: NetName=EXTI1 Pin=U3-53
+Added Pin To Net: NetName=EXTI0 Pin=U3-54

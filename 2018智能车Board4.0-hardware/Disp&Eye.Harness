@@ -1,0 +1,2 @@
+Disp=D[7..0],RD,RS,RST,WR,CS,Up,Down,Left,Right,Center
+Eye=DC[7..0],PCLK,VSY,SCL,SDA

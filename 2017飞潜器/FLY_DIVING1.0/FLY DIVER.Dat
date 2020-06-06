@@ -1,0 +1,18 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~FLY DIVER.PrjPCB|ReportField=ProjectFullPath~E:\桌面\MDZZ\飞潜器\FLY DIVER.PrjPCB|ReportField=Title~Bill of Materials For Project [FLY DIVER.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~29|ReportField=ReportTime~11:59:14|ReportField=ReportDate~2017/4/4|ReportField=ReportDateTime~2017/4/4 11:59:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/4/4|ReportField=CurrentTime~11:59:08|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\桌面\MDZZ\飞潜器\FLY DIVER.SchDoc|ReportField=DocumentName~FLY DIVER.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/4/4|ReportField=Organization~|ReportField=ProjectName~FLY DIVER.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~FLY DIVER.PrjPCB|ReportField=DataSourceFullPath~E:\桌面\MDZZ\飞潜器\FLY DIVER.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|MCU||||MCU|1
+2|飞控||C||飞控|1
+3|钽电容||C1|钽B|钽电容|1
+4|贴片二极管||D1, D2|二极管SMA|贴片二极管|2
+5|U?||DRIVER, DRIVER1, DRIVER2, DRIVER3||电调|4
+6|无刷电机||M1, M2, M3, M4||无刷电机|4
+7|NMOS||NMOS1, NMOS2|NMOS|NMOS|2
+8|Header 4|Header, 4-Pin|P1|HDR1X4|Header 4|1
+9|气阀1||Q1||气阀|1
+10|气阀2||Q2||气阀|1
+11|气阀3||Q3||气阀|1
+12|气阀4||Q4||气阀|1
+13|气阀5||Q5||气阀|1
+14|驱动器||QD||驱动器|1
+15|拨动开关||S1|拨动开关|拨动开关|1
+16|T型头||T, T1, T2, T3, T4|T型头|T型头|5
+17|P||气泵|2脚接头|2脚接头|1

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=GPS Old Footprint=SurfacePad-S4 New Footprint=SurfacePad-5
+Added Pin To Net: NetName=5V0 Pin=GPS-5
+Added Room: Name=U_Models
+Added Room: Name=U_Power
+Added Room: Name=U_System&Ports

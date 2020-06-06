@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3Dir Pin=U3-4
+Removed Pin From Net: NetName=Out1-3V3 Pin=U4-4
+Removed Pin From Net: NetName=Out2-3V3 Pin=U5-4
+Removed Pin From Net: NetName=3V3MCU Pin=U6-4
+Removed Pin From Net: NetName=Out2-3V3 Pin=ZigBee1-1
+Change Component Designator: OldDesignator=5V0P NewDesignator=BigEye1
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "*"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU3V3 Pin=ZigBee1-1
+Added Room: Name=U_Display&Key&Eye
+Added Room: Name=U_MCU&Net
+Added Room: Name=U_Models
+Added Room: Name=U_PowerGroup
+Added Room: Name=U_Select&Measure
+Added Room: Name=U_ServoPower

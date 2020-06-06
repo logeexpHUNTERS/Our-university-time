@@ -1,0 +1,60 @@
+Added Component: Designator=C1(钽B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S1(拨动开关)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T1(T型头)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(T型头)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T3(T型头)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T4(T型头)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T(T型头)
+Add component. Clean all parameters for all variants
+Added Net: Name=5V
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=T1-2
+Added Pin To Net: NetName=AGND Pin=T2-2
+Added Pin To Net: NetName=AGND Pin=T3-2
+Added Pin To Net: NetName=AGND Pin=T4-2
+Added Pin To Net: NetName=AGND Pin=T-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=D1 Pin=P1-1
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=P1-2
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=P1-3
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=P1-4
+Added Net: Name=D4
+Added Net: Name=D_1
+Added Net: Name=D_2
+Added Net: Name=D_3
+Added Net: Name=D_4
+Added Net: Name=D_5
+Added Net: Name=D_6
+Added Net: Name=D_7
+Added Net: Name=D_8
+Added Net: Name=D_9
+Added Net: Name=D_10
+Added Net: Name=D_11
+Added Net: Name=D_12
+Added Net: Name=DGND
+Added Pin To Net: NetName=NetS1_3 Pin=S1-3
+Added Pin To Net: NetName=NetS1_3 Pin=T-1
+Added Net: Name=NetS1_3
+Added Pin To Net: NetName=VBAT Pin=C1-1
+Added Pin To Net: NetName=VBAT Pin=S1-2
+Added Pin To Net: NetName=VBAT Pin=T1-1
+Added Pin To Net: NetName=VBAT Pin=T2-1
+Added Pin To Net: NetName=VBAT Pin=T3-1
+Added Pin To Net: NetName=VBAT Pin=T4-1
+Added Net: Name=VBAT
+Added Class: Name=FLY DIVER
+Added Room: Name=FLY DIVER

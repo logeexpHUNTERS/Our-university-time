@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Connect.SchDoc
+Record=SheetSymbol|SourceDocument=Connect.SchDoc|Designator=U_Models|SchDesignator=U_Models|FileName=Models.SchDoc|SymbolType=Normal|RawFileName=Models.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connect.SchDoc|Designator=U_PowerGroup|SchDesignator=U_PowerGroup|FileName=PowerGroup.SchDoc|SymbolType=Normal|RawFileName=PowerGroup.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connect.SchDoc|Designator=U_STM32F103ZET6|SchDesignator=U_STM32F103ZET6|FileName=STM32F103ZET6.SchDoc|SymbolType=Normal|RawFileName=STM32F103ZET6.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

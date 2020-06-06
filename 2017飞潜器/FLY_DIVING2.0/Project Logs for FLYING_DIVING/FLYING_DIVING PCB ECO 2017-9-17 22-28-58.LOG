@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=3v3-4
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Room: Name=FLYING_DIVING

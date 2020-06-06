@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=M_3V3 Pin=k1-2
+Removed Pin From Net: NetName=M_3V3 Pin=k2-2
+Removed Pin From Net: NetName=M_3V3 Pin=k3-2
+Removed Pin From Net: NetName=MiniSys_GND Pin=Rc-1
+Removed Pin From Net: NetName=GND Pin=Rc-2
+Change Component Footprint: Designator=C6 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=R1 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R2 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R3 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R4 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R5 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R6 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R7 Old Footprint=R0603 New Footprint=R0805
+Change Component Designator: OldDesignator=B0 NewDesignator=J1
+Change Component Designator: OldDesignator=B1 NewDesignator=J2
+Change Component Designator: OldDesignator=POWER NewDesignator=CN19
+Added Pin To Net: NetName=V_Key Pin=k1-2
+Added Pin To Net: NetName=V_Key Pin=k2-2
+Added Pin To Net: NetName=V_Key Pin=k3-2
+Added Room: Name=U_Models
+Added Room: Name=U_PowerGroup
+Added Room: Name=U_STM32F103ZET6
